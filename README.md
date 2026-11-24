@@ -6,8 +6,9 @@ Repositório com entregas de desafios e códigos de estudo desenvolvidos ao long
 
 | Pasta | Descrição |
 |---|---|
-| `Desafio 1/` | Ingestão de PDFs e busca semântica com RAG e pgvector |
+| [Desafio 1](Desafio%201/README.md) | Ingestão de PDFs e busca semântica com RAG e pgvector |
+| [Desafio 2](Desafio%202/README.md) | Pull, otimização e avaliação de prompts com LangChain e LangSmith |
 
 ## Tecnologias
 
-Python · LangChain · OpenAI · PostgreSQL + pgvector · Docker
+Python · LangChain · LangSmith · Gemini · OpenAI · PostgreSQL + pgvector · Docker
